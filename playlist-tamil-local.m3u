@@ -11,54 +11,6 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",7Star TV
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/6GxuWXT.png",Sana Plus
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
-http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/0ApLXUi.png",Thalapathy TV
-http://7starcloud.com:1935/thalapathytv/livethalapathy/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local",Aarya Premiere
-http://7starcloud.com:1935/aarya/aaryalive/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local",Tirumalai TV KARUR
-http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/QXV7bn4.png",Sigaram TV
-http://7starcloud.com:1935/sigaram/sigaramtv/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/9J5HJuI.png",Vani TV
-http://7starcloud.com:1935/vanitv/livemedia/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local",Arasan TV
-http://ammacable.com:1935/acn/arasantv/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="http://7starcloud.in/ACNCINEMA.png", ACN Cinema
-http://ammacable.com:1935/acn/acncinema/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="http://abcmedias.com/ACNMUSICLOGO_V2_00000.png", ACN Music
-http://ammacable.com:1935/acn/acnmusic/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local",Amma Channel
-http://ammacable.com:1935/acn/ammachannel/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local",AKARAM TV
-http://akaram.zecast.net/akaram-live/akaramnew2/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/4sOEcez.png" group-title="Tamil;Local",Vathanam TV 
-http://95.216.167.183:5080/LiveApp/streams/443106610169904881506470.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/3IzVcjg.png",Pakalavan TV
-https://player.yarlsriserver.com/pakalavantv/e26fd7c8b4fd8eafbb9f99a19a1c3701.sdp/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/analaiexpress1.jpg" group-title="Tamil;Local",Analai Express HD
-https://eu.streamjo.com/sarastv/sarastv.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/TIc76op.png" group-title="Tamil;Local",Deepam TV
-http://95.217.218.87/deepamtvhls/live.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Tamil;Local",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
 

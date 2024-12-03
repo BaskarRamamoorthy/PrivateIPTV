@@ -20,55 +20,8 @@ http://206.47.41.166:8080/1.m3u8
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="http://www.worldtamil.tv/img/logo.png", WORLD TAMIL TV
 http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
 
-#EXTINF:0, group-title="Tamil;Local" tvg-logo="http://haritv.com/images/logo.png",HARI TV
-http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
-
-#EXTINF:0, group-title="Tamil;Local" tvg-logo="http://sangamamtv.com/images/logo%20header%20banner.png",Sangamam HD
-http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-41QZC8uLrhU/XpVHgu1iFPI/AAAAAAAAABs/f2BhvPl7SNweMSfGGhybCQcjrJLp6QcbwCK4BGAYYCw/s920/512x512%2BSooriyanTV.png" group-title="Tamil;Local",Suriyan TV
-http://59d39900ebfb8.streamlock.net:1935/Jaffnatv/Jaffnatv/index.m3u8
-
-#EXTINF:0, group-title="Tamil;Local" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",Santhora TV
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",Marutam TV
-http://mntv.livebox.co.in/mntvhls/mntv.m3u8
-
 #EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",Marutam Music TV
 https://mntv.livebox.co.in/musichls/live.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="http://www.jawaharchannel.in/SEPERATE%20FOLDER/01%20HEADER/Leaf%20Logo.png", JAWAHAR TV
-http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png", ULTRAMAX TAMIL
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/ammatvvdr_logo.jpeg", AMMA TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg", JEEVAN TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/kavin_tv_logo.jpeg", KAVIN TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8 
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/kanaatvnew.jpg", KANA TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kanaatv123_low/index.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/kvmtv.jpg", KVM TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/sigaram_tv_logo.png?v=1", SIGARAM TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
-
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://static.ultramaxnet.com/images/nanban_tv_logo.png?v=1", NANBAN TV
-https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nanbantv_low/index.m3u8
-
-#EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
-http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
-
-#EXTINF:0, group-title="Tamil;Local" tvg-logo="https://www.meenakshitv.in/images/logo.png",MEENAKSHI TV
-https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
 
 #EXTINF:0 tvg-logo="http://www.moontvlive.com/images/logo.png" group-title="Tamil;Local",Moon TV
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8

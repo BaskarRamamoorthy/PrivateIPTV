@@ -11,6 +11,9 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Tamil;Local",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
 
+#EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",MNTV
+https://mntv.livebox.co.in/mntvhls/live.m3u8
+
 #EXTINF:0 tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Music",Marutam Music TV
 https://mntv.livebox.co.in/musichls/live.m3u8
 
@@ -68,13 +71,26 @@ https://jctvapp.lanevservices.in/jcfcapp/jctvlive/playlist.m3u8
 #EXTINF:0 group-title="Tamil;News" tvg-logo="https://i.imgur.com/uFiHtQX.png",Malaimurasu
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
 
+#EXTINF:0 group-title="Tamil;News" tvg-logo="https://i.imgur.com/uFiHtQX.png",Jaya Plus TV
+https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
+
+#EXTINF:0 group-title="Tamil;News" tvg-logo="https://yt3.googleusercontent.com/d-MofvmhHigi2UYuoR6nhyMX7-uyihvi5gGtbmXs_ODw5nilAMPA-dRlCXUEM6ZEjk5P4OwJGw=s176-c-k-c0x00ffffff-no-rj-mo",News Tamil 24x7
+https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
+
+#EXTINF:0 group-title="Tamil;News" tvg-logo="",Raj News Tamil (720p)
+https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
+
+#EXTINF:0 group-title="Tamil;News" tvg-logo="",Zee Tamil (1080p) 
+https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+
+#EXTINF:0 group-title="Tamil;News" tvg-logo="",News7 Tamil (720p) [Not 24/7] 
+https://ythls.armelin.one/channel/UC2f4w_ppqHplvjiNaoTAK9w.m3u8
+
 #EXTINF:0 group-title="Tamil;Entertainment" tvg-logo="https://i.imgur.com/XMAqb0H.png",Peppers TV
 https://live.wmncdn.net/peppers/live.stream/index.m3u8
+ 
 
-#EXTINF:0 group-title="Hindi;Sports" tvg-logo="http://static.epg.best/in/DDSports.in.png",DD Sports
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8 
-
-EXTINF:0 group-title="Tamil;Devotional" tvg-logo="http://static.epg.best/in/DDSports.in.png",SIVAN TV
+EXTINF:0 group-title="Tamil;Devotional" tvg-logo="",SIVAN TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 
 #EXTINF:0 group-title="English;News" tvg-logo="https://tavapi.inditechman.com/extras/images/1603524142_1598792353_NDTVcopy.jpg",NDTV

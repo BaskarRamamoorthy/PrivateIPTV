@@ -85,59 +85,59 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
 https://5c75277727cd1.streamlock.net/dheeran/dheeran/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Tamil" logo="https://assets.zoftcdn.com/branding/ibctv/ibc-siluvaii.png", IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;Entertainment", Tamil Star TV
+#EXTINF:0 type="stream" channelId="-1" group="Tamil", Tamil Star TV
 http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News", News 18 Tamil
+#EXTINF:0 type="stream" channelId="-1" group="News", News 18 Tamil
 https://live.drmlive-02.workers.dev/jc/615.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.imgur.com/uFiHtQX.png", Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News" logo="https://i.imgur.com/uFiHtQX.png", Jaya Plus TV
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.imgur.com/uFiHtQX.png", Jaya Plus TV
 https://ythls.armelin.one/channel/UCOP4Gbw-T1ofcW8vyL89ZDw.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News", NewsJ
+#EXTINF:0 type="stream" channelId="-1" group="News", NewsJ
 https://ythls.armelin.one/channel/UCsfh2Zb7-m4qzT8jLhK_Fzw.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News" logo="https://yt3.googleusercontent.com/d-MofvmhHigi2UYuoR6nhyMX7-uyihvi5gGtbmXs_ODw5nilAMPA-dRlCXUEM6ZEjk5P4OwJGw=s176-c-k-c0x00ffffff-no-rj-mo", News Tamil 24x7
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://yt3.googleusercontent.com/d-MofvmhHigi2UYuoR6nhyMX7-uyihvi5gGtbmXs_ODw5nilAMPA-dRlCXUEM6ZEjk5P4OwJGw=s176-c-k-c0x00ffffff-no-rj-mo", News Tamil 24x7
 https://ythls.armelin.one/channel/UCtbo6_eDG7zEtaOtcSltJkA.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News", Raj News Tamil (720p)
+#EXTINF:0 type="stream" channelId="-1" group="News", Raj News Tamil (720p)
 https://ythls.armelin.one/channel/UC1mkFVHzP87YQ87PSMxo9MQ.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News", Zee News Tamil (1080p)
+#EXTINF:0 type="stream" channelId="-1" group="News", Zee News Tamil (1080p)
 https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News", News7 Tamil (720p) [Not 24/7]
+#EXTINF:0 type="stream" channelId="-1" group="News", News7 Tamil (720p) [Not 24/7]
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News" logo="https://i.imgur.com/MHH6UNS.png", Thanthi TV HD
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.imgur.com/MHH6UNS.png", Thanthi TV HD
 https://segment.yuppcdn.net/110322/thanthi/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News" logo="https://i.imgur.com/ns2x7ws.png", Makkal TV
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://i.imgur.com/ns2x7ws.png", Makkal TV
 http://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News", Sathiyam TV HD
+#EXTINF:0 type="stream" channelId="-1" group="News", Sathiyam TV HD
 https://ythls.armelin.one/channel/UC2ziCMHFPWkFHjocUMXT__Q.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News", Sun News TV HD
+#EXTINF:0 type="stream" channelId="-1" group="News", Sun News TV HD
 https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News", Polimer News HD
+#EXTINF:0 type="stream" channelId="-1" group="News", Polimer News HD
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="English;News" logo="https://tavapi.inditechman.com/extras/images/1603524142_1598792353_NDTVcopy.jpg", NDTV
+#EXTINF:0 type="stream" channelId="-1" group="News" logo="https://tavapi.inditechman.com/extras/images/1603524142_1598792353_NDTVcopy.jpg", NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="English;News", NDTV India (IN)
+#EXTINF:0 type="stream" channelId="-1" group="News", NDTV India (IN)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01605-ndtvconvergence-ndtvindia-lgin/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="English;News", India Today
+#EXTINF:0 type="stream" channelId="-1" group="News", India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="English;News", BBC
+#EXTINF:0 type="stream" channelId="-1" group="News", BBC
 https://jmp2.uk/sam-US4000033L.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="English;News", CNBC TV18
+#EXTINF:0 type="stream" channelId="-1" group="News", CNBC TV18
 https://live.drmlive-02.workers.dev/jc/489.m3u8
-#EXTINF:0 type="stream" channelId="280" group="English;Fashion", Fashion TV (US)
+#EXTINF:0 type="stream" channelId="280" group="Fashion", Fashion TV (US)
 https://fashiontv-fashiontv-5-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="4439" group="English;Travel", Travel XP (SE)
+#EXTINF:0 type="stream" channelId="4439" group="Information", Travel XP (SE)
 https://travelxp-travelxp-1-se.lg.wurl.tv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3192" group="English;Travel", BBC Earth (US)
+#EXTINF:0 type="stream" channelId="3192" group="Information", BBC Earth (US)
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1120" group="English;Study" tvg-country="IN", BBC Impossible (CA)
 https://bbc-impossible-1-ca.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Tamil", Colors HD Tamil
 https://live.drmlive-02.workers.dev/jc/429.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;News", Malai murasu
+#EXTINF:0 type="stream" channelId="-1" group="News", Malai murasu
 https://ythls.armelin.one/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Hindi;India", Colors HD
+#EXTINF:0 type="stream" channelId="-1" group="Hindi", Colors HD
 https://live.drmlive-02.workers.dev/jc/144.m3u8
-#EXTINF:0 type="stream" channelId="1973" group="Hindi;Music", MTV
+#EXTINF:0 type="stream" channelId="1973" group="Music", MTV
 https://live.drmlive-02.workers.dev/jc/1145.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Sports", Sports Live
 https://live.drmlive-02.workers.dev/jc/2001.m3u8
@@ -149,31 +149,31 @@ https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCD
 http://tv.cloudcdn.me:80/live.ts?channelId=125429&uid=7238&deviceMac=00:1A:79:22:59:72
 #EXTINF:0 type="stream" channelId="-1" group="Sports" tvg-country="IN", Star Sports 1
 http://109.61.81.147:2080/cdn2/511/video.m3u8?token=4444
-#EXTINF:0 type="stream" channelId="-1" group="English;Movies", Colors Infinity
+#EXTINF:0 type="stream" channelId="-1" group="English", Colors Infinity
 https://live.drmlive-02.workers.dev/jc/1158.m3u8
-#EXTINF:0 type="stream" channelId="2584" group="English;Movie", MNX
+#EXTINF:0 type="stream" channelId="2584" group="English", MNX
 http://119.156.26.155:8000/play/a06o/index.m3u8
-#EXTINF:0 type="stream" channelId="1330" group="English;Movie" audio-track="English" subtitles="English" tvg-country="IN", HBO
+#EXTINF:0 type="stream" channelId="1330" group="English" audio-track="English" subtitles="English" tvg-country="IN", HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="English;Kids", Nick+
+#EXTINF:0 type="stream" channelId="-1" group="Kids", Nick+
 https://live.drmlive-02.workers.dev/jc/1226.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="English;Kids", Sonic
+#EXTINF:0 type="stream" channelId="-1" group="Kids", Sonic
 https://live.drmlive-02.workers.dev/jc/815.m3u8
-#EXTINF:0 type="stream" channelId="322" group="English;Kids", Nick Jr
+#EXTINF:0 type="stream" channelId="322" group="Kids", Nick Jr
 https://live.drmlive-02.workers.dev/jc/544.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;Devotional", SIVAN TV
+#EXTINF:0 type="stream" channelId="-1" group="Devotional", SIVAN TV
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;Devotional" logo="https://i.imgur.com/IKiNKDu.png", Imayam TV
+#EXTINF:0 type="stream" channelId="-1" group="Devotional" logo="https://i.imgur.com/IKiNKDu.png", Imayam TV
 https://5c75277727cd1.streamlock.net:443/imayamtv/imayamtv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;Devotional" logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png", Madha TV
+#EXTINF:0 type="stream" channelId="-1" group="Devotional" logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png", Madha TV
 http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;Devotional" logo="https://www.blessingtv.tv/images/all_images/14579702231.png", Aasirvadham TV
+#EXTINF:0 type="stream" channelId="-1" group="Devotional" logo="https://www.blessingtv.tv/images/all_images/14579702231.png", Aasirvadham TV
 http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;Devotional" logo="https://assets.zoftcdn.com/branding/ibctv/ibc-bakthi.png", IBC Bakthi
+#EXTINF:0 type="stream" channelId="-1" group="Devotional" logo="https://assets.zoftcdn.com/branding/ibctv/ibc-bakthi.png", IBC Bakthi
 https://tx1.ibctamil.tv/CDN_IBC_Bhakthi/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Tamil;Devotional" tvg-country="IN", Jothi TV
+#EXTINF:0 type="stream" channelId="-1" group="Devotional" tvg-country="IN", Jothi TV
 https://ythls.armelin.one/channel/UCmgKVM_O9tLA1w4rFVaGyig.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Hindi;Music", MTV Beats
+#EXTINF:0 type="stream" channelId="-1" group="Music", MTV Beats
 https://live.drmlive-02.workers.dev/jc/753.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Kids" subtitles="English" tvg-country="IN", Gabber TV
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
